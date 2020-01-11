@@ -1,0 +1,12 @@
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.exe.config
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.exe
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.pdb
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.csprojAssemblyReference.cache
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.exe
+C:\Users\chass\source\repos\AdvancedDatabaseProject\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.pdb
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.exe.config
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.exe
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\bin\Debug\AdvancedDatabaseProject.pdb
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.csprojAssemblyReference.cache
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.exe
+C:\Users\chass\Desktop\ADSA\Part 1,3,4 (C#)\AdvancedDatabaseProject\obj\Debug\AdvancedDatabaseProject.pdb

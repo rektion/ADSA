@@ -1,0 +1,194 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/chass/Desktop/Part 2 (C)/add.c
+stdio.h
+-
+stdlib.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/boolean.c
+stdbool.h
+-
+stdio.h
+-
+string.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/charStar.c
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdlib.h
+-
+string.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/conversions.c
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdlib.h
+-
+stdio.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/create.c
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdlib.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/dijkstra.c
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/display.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/findAndAdd.c
+stdbool.h
+-
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/free.c
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdlib.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/main.c
+string.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/menus.c
+stdio.h
+-
+stdlib.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdbool.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/nbproject/private/c_standard_headers_indexer.c
+assert.h
+-
+ctype.h
+-
+errno.h
+-
+float.h
+-
+limits.h
+-
+locale.h
+-
+math.h
+-
+setjmp.h
+-
+signal.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+time.h
+-
+iso646.h
+-
+wchar.h
+-
+wctype.h
+-
+complex.h
+-
+fenv.h
+-
+inttypes.h
+-
+stdbool.h
+-
+stdint.h
+-
+tgmath.h
+-
+stdalign.h
+-
+stdatomic.h
+-
+stdnoreturn.h
+-
+threads.h
+-
+uchar.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/structAlgorithm.c
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+stdlib.h
+-
+string.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/structGetters.c
+stdbool.h
+-
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+string.h
+-
+
+C:/Users/chass/Desktop/Part 2 (C)/structVilleGetters.c
+stdio.h
+-
+my.h
+C:/Users/chass/Desktop/Part 2 (C)/my.h
+string.h
+-
+
